@@ -23,3 +23,5 @@ ImGui Hook for DirectX 9. It supports x86 and x64
 * [Microsoft Detours](https://github.com/microsoft/Detours) - Microsoft Detours is an open source library for intercepting, monitoring and instrumenting binary functions on Microsoft Windows. It is developed by Microsoft and is most commonly used to intercept Win32 API calls within Windows applications.
 ## Authors
 * [Majdev](https://github.com/inc-Majdev) [Coding]
+* [PlutonLib](https://github.com/PlutonLib) [Coding]
+
